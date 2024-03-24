@@ -13,10 +13,10 @@ Este proyecto es un clon de la interfa de usuario de Pinterest, creado puramente
 + **Google Fonts:** Para fuentes personalizadas.
 
 ### Vista Previa del Proyecto
-.![Demo](/img/captu.png
+.![Demo](/img/captu.png)
 
 ### Licencia
 Distribuido bajo la Licencia MIT. Consulta `LICENSE` para obtener más información.
 
 ### Contacto
-Nancy Salazar: [Mi LinkedIn](https://www.linkedin.com/in/nancynsalazar/).
+Luz Maria: [Mi LinkedIn](https://www.linkedin.com/in/luz-maria-83683a2b3).
